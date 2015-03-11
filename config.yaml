@@ -1,0 +1,8 @@
+---
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://gosaoan.github.io/gh-pages"
+title: "Gosa Blog Template for GitHub Pages"
+canonifyurls: false
+...
